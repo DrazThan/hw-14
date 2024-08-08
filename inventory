@@ -1,0 +1,6 @@
+[servers]
+server1 ansible_host=your server ip
+server2 ansible_host=your server ip
+
+[all:vars]
+ansible_user=your_ssh_user
